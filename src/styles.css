@@ -1,0 +1,15 @@
+.inp {
+  margin: 10px;
+  margin-left: 0px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.image-list {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
